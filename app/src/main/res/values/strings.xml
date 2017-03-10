@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My First Mapbox App</string>
+    <string name="action_settings">Settings</string>
+    <string name="access_token">pk.eyJ1IjoiYmVzc2VybXQiLCJhIjoiY2l6ZXJzZWVqMDAxejMybWc2bnN0N3YwMiJ9.U3RF_dnmcoTcKDhlLlJW2A</string>
+</resources>
